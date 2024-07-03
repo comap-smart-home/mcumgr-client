@@ -6,7 +6,8 @@ repository = "https://github.com/vouch-opensource/mcumgr-client/"
 license = "Apache-2.0"
 description = "Run MCUmgr commands for uploading firmware updates from a PC to an embedded device"
 include = [
-    "/src"
+    "/src",
+    "/python"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
